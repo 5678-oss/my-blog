@@ -3,17 +3,11 @@ title: Frozen City
 date: 2020-05-05 15:04:56
 tags:
 ---
-# “城市仿佛被按下了暂停键”
+# 杭州印象
+---
 
-**这场突如其来的疫情，让原本喧嚣的城市一下子安静了下来，仿佛被冻结了一样。而在城市疫情得到一定控制后，城市复工在即，城市又慢慢的有了活力与生机。
+**选取了烟雨西湖和城市灯光秀两个代表杭州的美景。将两个景色放在一起感觉杭州是一座融合了古典与现代的一座城市，也体现了杭州这些年来的生活节奏的加快。可以感受古代文人墨客笔下的西湖，找一个茶室，点一杯西湖龙井，融入西湖诗情画意的美景中，看湖面鸭子嬉戏，休闲地度过一个下午。也可以到钱江新区观赏灯光秀，感受杭州心跳，领略做为一座现代化城市的活力与魅力。 过去，人们更多想要来杭州过一种休闲的生活，而现在你会经常听到年轻人想要去这座城市创业或者开启一段充满挑战的生活。**
 
-海报开始模拟了静止的城市，空无一人的街道和安静的街区。长按鼠标左键，随着复工复产的稳步推进，打破了城市的宁静，街道上开始出现来来往往的车辆，街区也变得热闹起来，城市又恢复了以往的活力。**
 
-<p class="codepen" data-height="945" data-theme-id="light" data-default-tab="js,result" data-user="5678-oss" data-slug-hash="ZEGPRPa" style="height: 945px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="ZEGPRPa">
-  <span>See the Pen <a href="https://codepen.io/5678-oss/pen/ZEGPRPa">
-  ZEGPRPa</a> by 5678-oss (<a href="https://codepen.io/5678-oss">@5678-oss</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 
